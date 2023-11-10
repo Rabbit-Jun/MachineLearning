@@ -12,4 +12,6 @@ Ticket: 티켓 번호입니다.
 Fare: 승객이 지불한 요금입니다.
 Cabin: 승객이 배정받은 객실 번호입니다.
 Embarked: 승객이 탑승한 항구를 나타냅니다. C는 Cherbourg, Q는 Queenstown, S는 Southampton을 의미합니다.
+FamilySize:가족 구성원 수를 나타냅니다.
+Father: 아버지의 존재 유무를 나타냅니다.
 </pre>
