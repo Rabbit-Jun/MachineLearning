@@ -22,17 +22,18 @@ Father: 아버지의 존재 유무를 나타냅니다.
 </pre>
 <h2>설치 방법</h2>
 <pre>
-해당 분석은 jupyter notebook을 이용했습니다.
+해당 분석은 conda 가상환경에서 jupyter notebook을 이용했기에 miniconda와 jupyter notebook을 필요로 합니다
 사용한 라이브러리는 
 numpy 
 pandas
 matplotlib.pyplot
 seaborn
 입니다.
-각 라이브러리는 pip install을 이용하여 설치 할 수 있습니다.
+각 라이브러리는 conda install을 이용하여 설치 할 수 있습니다.
   
 사망자와 생존자 예측에는 scklearn을 이용했으며
-pip install -U scikit-learn
+conda install scikit-learn
+
 명령어를 통해 설치 가능합니다
 
 </pre>
