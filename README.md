@@ -1,6 +1,9 @@
 <h1>Titanic data analysis </h1>
 <pre>
 This file is an analysis of the Titanic dataset.
+
+아버지의 존재 여부가 생존에 영향을 미치는지 또는 나이가 어릴 수록 생존률이 높은지 그리고 Pclass와 생존률의 관계, 마지막으로 16세 이하인 승객이 가족여행으로 타이타닉을 탔는지를 분석했습니다.
+
   
 PassengerId: 승객의 고유 번호입니다.
 Survived: 승객의 생존 여부를 나타냅니다. 0은 사망, 1은 생존을 의미합니다.
