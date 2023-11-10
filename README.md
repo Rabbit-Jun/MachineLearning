@@ -30,4 +30,9 @@ matplotlib.pyplot
 seaborn
 입니다.
 각 라이브러리는 pip install을 이용하여 설치 할 수 있습니다.
+  
+사망자와 생존자 예측에는 scklearn을 이용했으며
+pip install -U scikit-learn
+명령어를 통해 설치 가능합니다
+
 </pre>
